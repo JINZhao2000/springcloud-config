@@ -7,12 +7,12 @@ spring:
 spring:
     profiles: dev
     application:
-        nama: springcloud-config-dev
+        name: springcloud-config-dev
         
 ---
 
 spring:
     profiles: test
     application:
-        nama: springcloud-config-test
+        name: springcloud-config-test
         
